@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/counter/static/css/main.9ba57110.chunk.css",
+    "main.js": "/counter/static/js/main.df59c31e.chunk.js",
+    "main.js.map": "/counter/static/js/main.df59c31e.chunk.js.map",
+    "runtime-main.js": "/counter/static/js/runtime-main.83aa8552.js",
+    "runtime-main.js.map": "/counter/static/js/runtime-main.83aa8552.js.map",
+    "static/js/2.3b5c2ce8.chunk.js": "/counter/static/js/2.3b5c2ce8.chunk.js",
+    "static/js/2.3b5c2ce8.chunk.js.map": "/counter/static/js/2.3b5c2ce8.chunk.js.map",
+    "index.html": "/counter/index.html",
+    "precache-manifest.b321c83a80fee121cfad84c6327e4e38.js": "/counter/precache-manifest.b321c83a80fee121cfad84c6327e4e38.js",
+    "service-worker.js": "/counter/service-worker.js",
+    "static/css/main.9ba57110.chunk.css.map": "/counter/static/css/main.9ba57110.chunk.css.map",
+    "static/js/2.3b5c2ce8.chunk.js.LICENSE.txt": "/counter/static/js/2.3b5c2ce8.chunk.js.LICENSE.txt",
+    "static/media/avengers-endgame.jpg": "/counter/static/media/avengers-endgame.f04f6770.jpg",
+    "static/media/thanos.jpg": "/counter/static/media/thanos.b0f4a42c.jpg",
+    "static/media/the_avengers_theme.mp3": "/counter/static/media/the_avengers_theme.0fc52361.mp3",
+    "static/media/zvuk.mp3": "/counter/static/media/zvuk.e3cc934d.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83aa8552.js",
+    "static/js/2.3b5c2ce8.chunk.js",
+    "static/css/main.9ba57110.chunk.css",
+    "static/js/main.df59c31e.chunk.js"
+  ]
+}
