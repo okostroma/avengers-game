@@ -1,0 +1,63 @@
+
+
+body {
+  background-color: #000;
+  cursor: url("cursor1.png"), pointer;
+
+}
+.gameScreen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.App {
+  text-align: center;
+  color: #fff;
+}
+.logo {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.wrapper {
+  width: 170px;
+  margin: 10px auto 10px auto;
+}
+
+.item {
+  border: 1px solid grey;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.photo {
+  width: 100%;
+  height: 100%;
+  visibility: hidden;
+}
+
+.show {
+  visibility: visible;
+}
+
+.finish {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+button {
+  background-color: blueviolet;
+  color: #fff;
+  border: 1px solid blueviolet;
+  width: 100px;
+  margin-top: 3px;
+}
