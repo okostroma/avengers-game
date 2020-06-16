@@ -66,6 +66,7 @@ class App extends React.Component {
             <img className='logo' src={avengers} />
         <div className="wrapper">
             {/*{finish}*/}
+            <div className='title'>Can you catch 10 ?</div>
 
 
             {items}

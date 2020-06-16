@@ -3,6 +3,7 @@
 body {
   background-color: #000;
   cursor: url("cursor1.png"), pointer;
+  font-family: cursive;
 
 }
 .gameScreen {
@@ -23,10 +24,14 @@ body {
 }
 
 .wrapper {
+  text-align: center;
   width: 170px;
   margin: 10px auto 10px auto;
+  color: #fff;
 }
-
+.title {
+  margin-bottom: 20px;
+}
 .item {
   border: 1px solid grey;
   border-radius: 50%;
