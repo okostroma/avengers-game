@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/avengers-game/static/css/main.b5a5ec29.chunk.css",
-    "main.js": "/avengers-game/static/js/main.3da1d268.chunk.js",
-    "main.js.map": "/avengers-game/static/js/main.3da1d268.chunk.js.map",
+    "main.js": "/avengers-game/static/js/main.0b8f7169.chunk.js",
+    "main.js.map": "/avengers-game/static/js/main.0b8f7169.chunk.js.map",
     "runtime-main.js": "/avengers-game/static/js/runtime-main.5027847b.js",
     "runtime-main.js.map": "/avengers-game/static/js/runtime-main.5027847b.js.map",
-    "static/js/2.3b5c2ce8.chunk.js": "/avengers-game/static/js/2.3b5c2ce8.chunk.js",
-    "static/js/2.3b5c2ce8.chunk.js.map": "/avengers-game/static/js/2.3b5c2ce8.chunk.js.map",
+    "static/js/2.f96ad898.chunk.js": "/avengers-game/static/js/2.f96ad898.chunk.js",
+    "static/js/2.f96ad898.chunk.js.map": "/avengers-game/static/js/2.f96ad898.chunk.js.map",
     "index.html": "/avengers-game/index.html",
-    "precache-manifest.a1603ef15dab1a3e8a56af493eabbdcb.js": "/avengers-game/precache-manifest.a1603ef15dab1a3e8a56af493eabbdcb.js",
+    "precache-manifest.e9ee87e2e726e6dcf3ca1c131d05a793.js": "/avengers-game/precache-manifest.e9ee87e2e726e6dcf3ca1c131d05a793.js",
     "service-worker.js": "/avengers-game/service-worker.js",
     "static/css/main.b5a5ec29.chunk.css.map": "/avengers-game/static/css/main.b5a5ec29.chunk.css.map",
-    "static/js/2.3b5c2ce8.chunk.js.LICENSE.txt": "/avengers-game/static/js/2.3b5c2ce8.chunk.js.LICENSE.txt",
+    "static/js/2.f96ad898.chunk.js.LICENSE.txt": "/avengers-game/static/js/2.f96ad898.chunk.js.LICENSE.txt",
     "static/media/avengers-endgame.jpg": "/avengers-game/static/media/avengers-endgame.f04f6770.jpg",
     "static/media/thanos.jpg": "/avengers-game/static/media/thanos.b0f4a42c.jpg",
     "static/media/the_avengers_theme.mp3": "/avengers-game/static/media/the_avengers_theme.0fc52361.mp3",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5027847b.js",
-    "static/js/2.3b5c2ce8.chunk.js",
+    "static/js/2.f96ad898.chunk.js",
     "static/css/main.b5a5ec29.chunk.css",
-    "static/js/main.3da1d268.chunk.js"
+    "static/js/main.0b8f7169.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81a01ffe87151f2839c6fca5f597d1a1",
+    "revision": "5162c46be0156b574ecd6762fbf3964e",
     "url": "/avengers-game/index.html"
   },
   {
-    "revision": "dbfef2f1ab77e1288b07",
+    "revision": "69d4d874cdc2f7d516bf",
     "url": "/avengers-game/static/css/main.b5a5ec29.chunk.css"
   },
   {
-    "revision": "a836ccda7cf6cedc0feb",
-    "url": "/avengers-game/static/js/2.3b5c2ce8.chunk.js"
+    "revision": "353e45203c622756bdb3",
+    "url": "/avengers-game/static/js/2.f96ad898.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/avengers-game/static/js/2.3b5c2ce8.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/avengers-game/static/js/2.f96ad898.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dbfef2f1ab77e1288b07",
-    "url": "/avengers-game/static/js/main.3da1d268.chunk.js"
+    "revision": "69d4d874cdc2f7d516bf",
+    "url": "/avengers-game/static/js/main.0b8f7169.chunk.js"
   },
   {
     "revision": "ed82ce71a61e6c68ae0b",
