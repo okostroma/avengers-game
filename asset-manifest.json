@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/avengers-game/static/css/main.9ba57110.chunk.css",
-    "main.js": "/avengers-game/static/js/main.2d01f475.chunk.js",
-    "main.js.map": "/avengers-game/static/js/main.2d01f475.chunk.js.map",
+    "main.css": "/avengers-game/static/css/main.b5a5ec29.chunk.css",
+    "main.js": "/avengers-game/static/js/main.3da1d268.chunk.js",
+    "main.js.map": "/avengers-game/static/js/main.3da1d268.chunk.js.map",
     "runtime-main.js": "/avengers-game/static/js/runtime-main.5027847b.js",
     "runtime-main.js.map": "/avengers-game/static/js/runtime-main.5027847b.js.map",
     "static/js/2.3b5c2ce8.chunk.js": "/avengers-game/static/js/2.3b5c2ce8.chunk.js",
     "static/js/2.3b5c2ce8.chunk.js.map": "/avengers-game/static/js/2.3b5c2ce8.chunk.js.map",
     "index.html": "/avengers-game/index.html",
-    "precache-manifest.6cb59c9260551274bd827ed6d8e0f397.js": "/avengers-game/precache-manifest.6cb59c9260551274bd827ed6d8e0f397.js",
+    "precache-manifest.a1603ef15dab1a3e8a56af493eabbdcb.js": "/avengers-game/precache-manifest.a1603ef15dab1a3e8a56af493eabbdcb.js",
     "service-worker.js": "/avengers-game/service-worker.js",
-    "static/css/main.9ba57110.chunk.css.map": "/avengers-game/static/css/main.9ba57110.chunk.css.map",
+    "static/css/main.b5a5ec29.chunk.css.map": "/avengers-game/static/css/main.b5a5ec29.chunk.css.map",
     "static/js/2.3b5c2ce8.chunk.js.LICENSE.txt": "/avengers-game/static/js/2.3b5c2ce8.chunk.js.LICENSE.txt",
     "static/media/avengers-endgame.jpg": "/avengers-game/static/media/avengers-endgame.f04f6770.jpg",
     "static/media/thanos.jpg": "/avengers-game/static/media/thanos.b0f4a42c.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.5027847b.js",
     "static/js/2.3b5c2ce8.chunk.js",
-    "static/css/main.9ba57110.chunk.css",
-    "static/js/main.2d01f475.chunk.js"
+    "static/css/main.b5a5ec29.chunk.css",
+    "static/js/main.3da1d268.chunk.js"
   ]
 }
